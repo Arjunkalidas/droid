@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Big Bean</string>
+    <string name="picture_of_the_restaurant">picture of the restaurant</string>
+    <string name="restaurant_slogan">Your Coffee destination!</string>
+    <string name="description">We serve:</string>
+    <string name="menu">South Indian Degree Coffee\nHazelnut Mocha \nCafe Latte \nEspresso \nIrish Coffee</string>
+    <string name="phone_number">(408) 262-1688</string>
+    <string name="address">1770 Clear Lake Ave, Milpitas, CA 95035</string>
+    <string name="icon_address">icon address</string>
+    <string name="icon_phone">icon phone</string>
+    <string name="icon_open_till">We are open from 7:00 AM till 12:00 PM</string>
+</resources>
